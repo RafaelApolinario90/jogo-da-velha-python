@@ -4,9 +4,13 @@
 
 Este é um **Jogo da Velha (Tic-Tac-Toe) em Python** com um jogador humano (`X`) contra o computador (`O`). O projeto inclui **três níveis de dificuldade**, sendo o mais difícil implementado com o poderoso **algoritmo Minimax**, garantindo jogadas estratégicas do computador.  
 
+<br> 
+
 🎮 Veja um exemplo de jogabilidade:
 
-![Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHMwdjRwajdpM2Qybmg4dnZxNDA1MHd0bWp5cW00ZnhhNDNjZ2hxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNKQe0D6uQVjcIM/giphy.gif) 
+<p align="center">
+  <img src= https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHMwdjRwajdpM2Qybmg4dnZxNDA1MHd0bWp5cW00ZnhhNDNjZ2hxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNKQe0D6uQVjcIM/giphy.gif alt="Exemplo de jogabilidade" />
+</p>
 
 ## Funcionalidades
 
