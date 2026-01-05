@@ -1,4 +1,4 @@
-# Jogo da Velha em Python 🕹️
+# Jogo da Velha em Python <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32"> 🕹️
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Completo-brightgreen)
 
